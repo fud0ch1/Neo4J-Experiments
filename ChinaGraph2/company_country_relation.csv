@@ -1,0 +1,768 @@
+src,dst,relationship
+Alibaba,Singapore,presence
+Alibaba,Hong Kong,presence
+Alibaba,Russia,presence
+Alibaba,Israel,presence
+Alibaba,United States,presence
+Alibaba,United States,presence
+Alibaba,Russia,presence
+Alibaba,Malaysia,presence
+Alibaba,United States,presence
+Alibaba,United States,presence
+Alibaba,United Kingdom,presence
+Alibaba,Germany,presence
+Alibaba,United Arab Emirates,presence
+Alibaba,India,presence
+Alibaba,Malaysia,presence
+Alibaba,Singapore,presence
+Alibaba,Indonesia,presence
+Alibaba,Japan,presence
+Alibaba,Australia,presence
+Alibaba,Japan,presence
+Alibaba,Australia,presence
+Alibaba,Australia,presence
+Huawei,France,presence
+Huawei,South Africa,presence
+Huawei,Saudi Arabia,presence
+Huawei,Czech Republic,presence
+Huawei,Indonesia,presence
+Huawei,Papua New Guinea,presence
+Huawei,Germany,presence
+Huawei,Germany,presence
+Huawei,South Korea,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,United States,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Canada,presence
+Huawei,Sweden,presence
+Huawei,Australia,presence
+Huawei,Germany,presence
+Huawei,Germany,presence
+Huawei,United Kingdom,presence
+Huawei,Ireland,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,Australia,presence
+Huawei,United States,presence
+Huawei,United Kingdom,presence
+Huawei,Netherlands,presence
+Huawei,United Kingdom,presence
+Huawei,Australia,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,Canada,presence
+Huawei,United States,presence
+Huawei,Hong Kong,presence
+Huawei,Brazil,presence
+Huawei,Iran,presence
+Huawei,Australia,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,Germany,presence
+Huawei,Germany,presence
+Huawei,Hong Kong,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,United Arab Emirates,presence
+Huawei,Tanzania,presence
+Huawei,Angola,presence
+Huawei,Zambia,presence
+Huawei,Nigeria,presence
+Huawei,Nigeria,presence
+Huawei,Ghana,presence
+Huawei,Tunisia,presence
+Huawei,Fiji,presence
+Huawei,Fiji,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Australia,presence
+Huawei,Germany,presence
+Huawei,Belgium,presence
+Huawei,Switzerland,presence
+Huawei,Germany,presence
+Huawei,Germany,presence
+Huawei,Germany,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,Finland,presence
+Huawei,Germany,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Sierra Leone,presence
+Huawei,Sierra Leone,presence
+Huawei,Kazakhstan,presence
+Huawei,Oman,presence
+Huawei,United States,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,Australia,presence
+Huawei,New Zealand,presence
+Huawei,New Zealand,presence
+Huawei,New Zealand,presence
+Huawei,New Zealand,presence
+Huawei,Austria,presence
+Huawei,Austria,presence
+Huawei,Austria,presence
+Huawei,Austria,presence
+Huawei,Ireland,presence
+Huawei,Ireland,presence
+Huawei,Ireland,presence
+Huawei,Ireland,presence
+Huawei,Ireland,presence
+Huawei,Estonia,presence
+Huawei,Estonia,presence
+Huawei,Estonia,presence
+Huawei,Belarus,presence
+Huawei,Belarus,presence
+Huawei,Belarus,presence
+Huawei,Belarus,presence
+Huawei,Bulgaria,presence
+Huawei,Belgium,presence
+Huawei,Belgium,presence
+Huawei,Belgium,presence
+Huawei,Belgium,presence
+Huawei,Belgium,presence
+Huawei,Poland,presence
+Huawei,Poland,presence
+Huawei,Denmark,presence
+Huawei,Denmark,presence
+Huawei,Denmark,presence
+Huawei,Germany,presence
+Huawei,Russia,presence
+Huawei,Russia,presence
+Huawei,Russia,presence
+Huawei,Russia,presence
+Huawei,Russia,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,France,presence
+Huawei,Finland,presence
+Huawei,Netherlands,presence
+Huawei,Netherlands,presence
+Huawei,Netherlands,presence
+Huawei,Netherlands,presence
+Huawei,Netherlands,presence
+Huawei,Latvia,presence
+Huawei,Latvia,presence
+Huawei,Latvia,presence
+Huawei,Lithuania,presence
+Huawei,Lithuania,presence
+Huawei,Lithuania,presence
+Huawei,Lithuania,presence
+Huawei,Romania,presence
+Huawei,Romania,presence
+Huawei,Romania,presence
+Huawei,Romania,presence
+Huawei,Romania,presence
+Huawei,Norway,presence
+Huawei,Norway,presence
+Huawei,Portugal,presence
+Huawei,Portugal,presence
+Huawei,Portugal,presence
+Huawei,Portugal,presence
+Huawei,Sweden,presence
+Huawei,Sweden,presence
+Huawei,Sweden,presence
+Huawei,Serbia,presence
+Huawei,Serbia,presence
+Huawei,Ukraine,presence
+Huawei,Ukraine,presence
+Huawei,Ukraine,presence
+Huawei,Spain,presence
+Huawei,Greece,presence
+Huawei,Greece,presence
+Huawei,Greece,presence
+Huawei,Hungary,presence
+Huawei,Italy,presence
+Huawei,Italy,presence
+Huawei,Italy,presence
+Huawei,Italy,presence
+Huawei,Italy,presence
+Huawei,Italy,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,United Arab Emirates,presence
+Huawei,United Arab Emirates,presence
+Huawei,United Arab Emirates,presence
+Huawei,United Arab Emirates,presence
+Huawei,United Arab Emirates,presence
+Huawei,United Arab Emirates,presence
+Huawei,United Arab Emirates,presence
+Huawei,Azerbaijan,presence
+Huawei,Pakistan,presence
+Huawei,Pakistan,presence
+Huawei,Pakistan,presence
+Huawei,Pakistan,presence
+Huawei,Bahrain,presence
+Huawei,South Korea,presence
+Huawei,South Korea,presence
+Huawei,South Korea,presence
+Huawei,Kuwait,presence
+Huawei,Kuwait,presence
+Huawei,Laos,presence
+Huawei,Laos,presence
+Huawei,Laos,presence
+Huawei,Laos,presence
+Huawei,Laos,presence
+Huawei,Malaysia,presence
+Huawei,Bangladesh,presence
+Huawei,Bangladesh,presence
+Huawei,Bangladesh,presence
+Huawei,Bangladesh,presence
+Huawei,Bangladesh,presence
+Huawei,Bangladesh,presence
+Huawei,Myanmar [Burma],presence
+Huawei,Myanmar [Burma],presence
+Huawei,Myanmar [Burma],presence
+Huawei,Japan,presence
+Huawei,Japan,presence
+Huawei,Japan,presence
+Huawei,Japan,presence
+Huawei,Japan,presence
+Huawei,Japan,presence
+Huawei,Japan,presence
+Huawei,Saudi Arabia,presence
+Huawei,Tajikistan,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Thailand,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkey,presence
+Huawei,Turkmenistan,presence
+Huawei,Turkmenistan,presence
+Huawei,Uzbekistan,presence
+Huawei,Uzbekistan,presence
+Huawei,Singapore,presence
+Huawei,Singapore,presence
+Huawei,Singapore,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Indonesia,presence
+Huawei,Vietnam,presence
+Huawei,Botswana,presence
+Huawei,Ghana,presence
+Huawei,Cameroon,presence
+Huawei,Cameroon,presence
+Huawei,Kenya,presence
+Huawei,Kenya,presence
+Huawei,South Africa,presence
+Huawei,Senegal,presence
+Huawei,Senegal,presence
+Huawei,Senegal,presence
+Huawei,Senegal,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,Canada,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,United States,presence
+Huawei,Canada,presence
+Huawei,Brazil,presence
+Huawei,Brazil,presence
+Huawei,Brazil,presence
+Huawei,Brazil,presence
+Huawei,Brazil,presence
+Huawei,Ecuador,presence
+Huawei,Ecuador,presence
+Huawei,Ecuador,presence
+Huawei,Ecuador,presence
+Huawei,Ecuador,presence
+Huawei,Ecuador,presence
+Huawei,Ecuador,presence
+Huawei,United States,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Huawei,Colombia,presence
+Alibaba,India,presence
+Alibaba,India,presence
+Alibaba,India,presence
+Alibaba,India,presence
+Alibaba,Indonesia,presence
+Alibaba,Singapore,presence
+Alibaba,Hong Kong,presence
+Alibaba,United States,presence
+Baidu,United States,presence
+Baidu,United States,presence
+Baidu,Brazil,presence
+Huawei,Israel,presence
+Huawei,United Kingdom,presence
+Huawei,United Kingdom,presence
+Huawei,Belgium,presence
+Huawei,Ireland,presence
+Huawei,United Kingdom,presence
+Baidu,United States,presence
+Huawei,Bolivia,presence
+Baidu,United States,presence
+Tencent,United States,presence
+ZTE,Venezuela,presence
+Tencent,United States,presence
+Tencent,Finland,presence
+Alibaba,Israel,presence
+China Mobile,Japan,presence
+China Mobile,United States,presence
+China Mobile,Netherlands,presence
+China Mobile,Norway,presence
+China Mobile,Singapore,presence
+China Mobile,Thailand,presence
+China Mobile,South Africa,presence
+China Mobile,Singapore,presence
+China Mobile,Russia,presence
+China Mobile,United Kingdom,presence
+China Mobile,United Kingdom,presence
+China Mobile,United Arab Emirates,presence
+China Mobile,United Arab Emirates,presence
+China Mobile,Kazakhstan,presence
+China Mobile,South Korea,presence
+China Mobile,Japan,presence
+China Mobile,South Korea,presence
+China Mobile,Pakistan,presence
+China Telecom,Kazakhstan,presence
+China Telecom,Russia,presence
+China Telecom,Russia,presence
+China Telecom,Tanzania,presence
+China Telecom,Congo [DRC],presence
+China Telecom,Ethiopia,presence
+China Telecom,Nigeria,presence
+China Telecom,Saudi Arabia,presence
+China Telecom,Hong Kong,presence
+China Telecom,Zambia,presence
+China Telecom,Mauritius,presence
+China Telecom,Finland,presence
+China Unicom,Brazil,presence
+China Unicom,Spain,presence
+China Unicom,Hong Kong,presence
+China Unicom,France,presence
+China Unicom,United States,presence
+China Unicom,United States,presence
+China Unicom,United Arab Emirates,presence
+China Unicom,Kazakhstan,presence
+China Unicom,United Kingdom,presence
+China Unicom,Italy,presence
+China Unicom,United States,presence
+China Telecom,Norway,presence
+China Mobile,Djibouti,presence
+China Unicom,Myanmar [Burma],presence
+China Unicom,Myanmar [Burma],presence
+China Unicom,Djibouti,presence
+Baidu,Japan,presence
+BGI,Canada,presence
+BGI,Switzerland,presence
+BGI,Australia,presence
+BGI,Germany,presence
+BGI,United Kingdom,presence
+BGI,United States,presence
+BGI,United Kingdom,presence
+BGI,Australia,presence
+BGI,Australia,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,Germany,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,Ireland,presence
+Alibaba,Singapore,presence
+Huawei,United States,presence
+Huawei,Egypt,presence
+China Telecom,Russia,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,India,presence
+Tencent,United States,presence
+Tencent,Sweden,presence
+Tencent,Indonesia,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,India,presence
+Tencent,India,presence
+Tencent,Singapore,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,South Korea,presence
+Tencent,Vietnam,presence
+Tencent,United States,presence
+Tencent,South Korea,presence
+Tencent,South Korea,presence
+Tencent,South Korea,presence
+Tencent,South Korea,presence
+Tencent,South Korea,presence
+Tencent,South Korea,presence
+Tencent,South Korea,presence
+Tencent,United States,presence
+Tencent,Singapore,presence
+Tencent,United States,presence
+Tencent,South Korea,presence
+Tencent,Japan,presence
+Tencent,United States,presence
+Tencent,South Korea,presence
+Tencent,United States,presence
+Tencent,South Korea,presence
+Tencent,United States,presence
+Tencent,Switzerland,presence
+Tencent,United States,presence
+Tencent,United States,presence
+Tencent,Sweden,presence
+Tencent,Australia,presence
+Baidu,United States,presence
+China Unicom,Pakistan,presence
+ZTE,Russia,presence
+ZTE,Sri Lanka,presence
+ZTE,Ethiopia,presence
+ZTE,United Kingdom,presence
+ZTE,Nigeria,presence
+ZTE,Argentina,presence
+ZTE,Venezuela,presence
+ZTE,Armenia,presence
+ZTE,Libya,presence
+ZTE,Brazil,presence
+ZTE,Czech Republic,presence
+ZTE,United Kingdom,presence
+ZTE,Rwanda,presence
+ZTE,Nigeria,presence
+ZTE,Zimbabwe,presence
+ZTE,Georgia,presence
+ZTE,Poland,presence
+ZTE,Nepal,presence
+ZTE,United States,presence
+ZTE,Sri Lanka,presence
+ZTE,Tunisia,presence
+China Telecom,South Africa,presence
+China Telecom,South Africa,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+Huawei,Malaysia,presence
+BGI,Latvia,presence
+Huawei,Mexico,presence
+Huawei,Nigeria,presence
+Huawei,Nigeria,presence
+Huawei,Philippines,presence
+Huawei,Colombia,presence
+Hikvision (controlled by CETC),Zambia,presence
+Huawei,Algeria,presence
+Huawei,Algeria,presence
+China Unicom,Cameroon,presence
+ZTE,Venezuela,presence
+ZTE,Venezuela,presence
+ZTE,Malaysia,presence
+ZTE,Cambodia,presence
+ZTE,Norway,presence
+ZTE,Algeria,presence
+ZTE,Cambodia,presence
+ZTE,Japan,presence
+ZTE,Malaysia,presence
+ZTE,Indonesia,presence
+ZTE,India,presence
+ZTE,Spain,presence
+ZTE,Malaysia,presence
+ZTE,Spain,presence
+ZTE,India,presence
+Huawei,India,presence
+ZTE,United Kingdom,presence
+ZTE,Ukraine,presence
+Huawei,Ukraine,presence
+ZTE,Peru,presence
+ZTE,Austria,presence
+ZTE,Slovenia,presence
+ZTE,Ukraine,presence
+ZTE,Barbados,presence
+ZTE,Belgium,presence
+ZTE,Russia,presence
+ZTE,Myanmar [Burma],presence
+ZTE,Uzbekistan,presence
+ZTE,Mexico,presence
+ZTE,Malaysia,presence
+ZTE,Spain,presence
+ZTE,Spain,presence
+ZTE,Algeria,presence
+ZTE,India,presence
+ZTE,Bangladesh,presence
+ZTE,Japan,presence
+ZTE,India,presence
+ZTE,India,presence
+ZTE,India,presence
+ZTE,India,presence
+ZTE,Canada,presence
+ZTE,Vietnam,presence
+ZTE,India,presence
+ZTE,Indonesia,presence
+ZTE,Austria,presence
+ZTE,Italy,presence
+ZTE,Nepal,presence
+ZTE,Thailand,presence
+ZTE,Indonesia,presence
+ZTE,Belgium,presence
+ZTE,Brazil,presence
+ZTE,Germany,presence
+ZTE,Nigeria,presence
+ZTE,Bangladesh,presence
+ZTE,Indonesia,presence
+ZTE,Pakistan,presence
+ZTE,Portugal,presence
+ZTE,United States,presence
+ZTE,Romania,presence
+ZTE,Pakistan,presence
+ZTE,Colombia,presence
+ZTE,Japan,presence
+ZTE,Colombia,presence
+ZTE,India,presence
+ZTE,Zambia,presence
+ZTE,Ethiopia,presence
+ZTE,Mauritania,presence
+ZTE,Pakistan,presence
+ZTE,Libya,presence
+ZTE,Guyana,presence
+ZTE,Guadeloupe,presence
+ZTE,France,presence
+ZTE,Thailand,presence
+ZTE,Malaysia,presence
+ZTE,India,presence
+ZTE,Turkey,presence
+Huawei,Turkey,presence
+ZTE,Venezuela,presence
+ZTE,India,presence
+ZTE,Morocco,presence
+ZTE,Vietnam,presence
+ZTE,Nepal,presence
+ZTE,Mongolia,presence
+ZTE,Saudi Arabia,presence
+ZTE,Indonesia,presence
+ZTE,Zimbabwe,presence
+ZTE,Timor-Leste,presence
+ZTE,Uzbekistan,presence
+ZTE,Madagascar,presence
+ZTE,Greece,presence
+ZTE,Ukraine,presence
+ZTE,Norway,presence
+ZTE,Ethiopia,presence
+ZTE,Russia,presence
+ZTE,Greece,presence
+ZTE,Saudi Arabia,presence
+ZTE,Bangladesh,presence
+ZTE,Cameroon,presence
+ZTE,Uganda,presence
+ZTE,Mexico,presence
+ZTE,Spain,presence
+ZTE,Netherlands,presence
+ZTE,Jamaica,presence
+ZTE,United States,presence
+ZTE,Turkey,presence
+ZTE,Venezuela,presence
+Huawei,Venezuela,presence
+ZTE,Belarus,presence
+Alibaba,Rwanda,presence
+Alibaba,Thailand,presence
+Huawei,Cameroon,presence
+ZTE,Austria,presence
+ZTE,Belgium,presence
+ZTE,Sweden,presence
+ZTE,Italy,presence
+ZTE,Costa Rica,presence
+ZTE,Ecuador,presence
+ZTE,El Salvador,presence
+ZTE,Guatemala,presence
+ZTE,Nicaragua,presence
+ZTE,Panama,presence
+ZTE,Uruguay,presence
+ZTE,Bangladesh,presence
+BGI,United States,presence
+BGI,United States,presence
+BGI,South Africa,presence
+Huawei,Malawi,presence
+Huawei,Malawi,presence
+Huawei,Mali,presence
+Huawei,Angola,presence
+China Unicom,,presence
+China Unicom,United States,presence
+Alibaba,United States,presence
+Alibaba,Brazil,presence
+Alibaba,Russia,presence
+Alibaba,Pakistan,presence
+Alibaba,India,presence
+Alibaba,Israel,presence
+Alibaba,Israel,presence
+Alibaba,United States,presence
+Alibaba,United States,presence
+Alibaba,Singapore,presence
+Huawei,United Arab Emirates,presence
+Huawei,Spain,presence
+Huawei,Ukraine,presence
+Huawei,Austria,presence
+Huawei,Turkey,presence
+Huawei,Indonesia,presence
+Huawei,Oman,presence
+Huawei,Italy,presence
+Huawei,Italy,presence
+Huawei,Switzerland,presence
+Huawei,Switzerland,presence
+Huawei,Brazil,presence
+Huawei,France,presence
+Huawei,Russia,presence
+Huawei,Monaco,presence
+Huawei,Lebanon,presence
+Huawei,Latvia,presence
+Huawei,Kuwait,presence
+Huawei,Portugal,presence
+Huawei,United Kingdom,presence
+Huawei,Bahrain,presence
+Huawei,South Africa,presence
+Huawei,Saudi Arabia,presence
+Huawei,Iceland,presence
+Huawei,Malaysia,presence
+Huawei,Algeria,presence
+BGI,Hong Kong,presence
+BGI,Netherlands,presence
+BGI,Netherlands,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,Israel,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+WuXi AppTec Group,United States,presence
+Huawei,Samoa,presence
+ZTE,Papua New Guinea,presence
+Tencent,United States,presence
+Tencent,New Zealand,presence
+Tencent,Thailand,presence
+Tencent,United States,presence
+Alibaba,United States,presence
